@@ -1,12 +1,13 @@
 terraform {
-
+/*
   cloud {
-    organization = "organization-name"
+    organization = "bloomy"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "learn-terraform-cloud-Adek"
     }
   }
+*/
 
   required_providers {
     aws = {
