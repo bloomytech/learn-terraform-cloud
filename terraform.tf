@@ -4,7 +4,7 @@ terraform {
     organization = "bloomy"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "learn-terraform-cloud-Adek"
     }
   }
 */
